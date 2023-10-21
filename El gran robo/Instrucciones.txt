@@ -1,0 +1,12 @@
+
+
+
+Bienvenido a El Gran Robo
+
+La dinámica es la siguiente:
+Te presentaré una pequeña historia.
+Deberas obtener información mediante preguntas específicas, tendras 5 oportunidades
+para preguntar sobre algun lugar, una persona o un objeto. Después tendras que
+dar tu teoría.
+Elige tu conclusión y presiona comprobar, si es correcta, ganaste, si no, podras
+ver quién fue en realidad.
