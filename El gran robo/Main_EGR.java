@@ -26,6 +26,7 @@ public class Main_EGR extends JFrame implements ActionListener {
         Titulo = new JLabel("El Gran Robo");
         Titulo.setBounds(200,0,450,50); //x, y, ancho, alto. Dentro del frame
         Titulo.setFont(fuente1);
+        Titulo.setForeground(Color.BLUE);
         botonJ = new JButton("Empezar");
         botonJ.setBounds(300,250,150,30);
         botonJ.setFont(fuente2);
